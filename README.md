@@ -7,9 +7,9 @@ This app is a basic notifier for reminding students to attend specific class.
 ## development
 
 Make sure that you have nodejs and npm or yarn installed on your system.
- You can grab nodejs from [here](https://nodejs.org/en/download/).
- npm is installed along with nodejs. 
- If you want to use yarn than grab it from [here](https://classic.yarnpkg.com/en/docs/install).
+You can grab nodejs from [here](https://nodejs.org/en/download/).
+npm is installed along with nodejs.
+If you want to use yarn than grab it from [here](https://classic.yarnpkg.com/en/docs/install).
 
 To work on this repository fork this repository using the fork button and clone it to your system using git.
 Next run the following command to install all the requiered packages.
